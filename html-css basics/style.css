@@ -1,0 +1,86 @@
+#navbar {
+    text-align: center;
+}
+
+#sign-in {
+    margin-top: 4rem;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+}
+
+#password-field {
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.space {
+    margin-bottom: 0.5rem;
+}
+
+.main-navbar {
+    display: grid;
+    grid-template-columns: 33% 34% 33%;
+    text-align: center;
+}
+
+#post-create-box {
+    display: grid;
+    grid-template-columns: 33% 34% 33%;
+
+}
+
+#post-title {
+    margin-left: 5%;
+}
+
+#img-link {
+    margin-left: 10%;
+}
+
+#create-post {
+    margin-left: 20%;
+    margin-right: 5%;
+}
+
+.post-card {
+    margin-top: 2rem;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.profile-img {
+    height: 5rem;
+    width: 5rem;
+    object-fit: cover;
+}
+
+.post-img {
+    height: 20rem;
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: 1rem;
+}
+
+.pic-and-name {
+    display: grid;
+    grid-template-columns: 5rem 10rem;
+}
+
+.profile-name {
+    margin-top: 2rem;
+    margin-left: 1rem;
+}
+
+.post-text {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.likes {
+    margin-bottom: 1rem;
+}
+
+.unfriend-btn {
+    margin-top: 1rem;
+}

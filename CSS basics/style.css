@@ -1,0 +1,42 @@
+.red-border {
+    border: 0.1rem solid red;
+}
+
+#heading {
+    text-align: center;
+}
+
+#signin {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-align: center;
+}
+
+#navbar {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+}
+
+#logout {
+    margin-top: 1rem;
+}
+
+.content {
+    text-align: center;
+    margin-top: 2rem;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 2rem;
+}
+
+.pic {
+    height: 20rem;
+    width: 100%;
+    object-fit: cover;
+}
+
+.btn {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
